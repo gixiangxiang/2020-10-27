@@ -1,3 +1,13 @@
-#logo>img {
+.ui-body-c,
+.ui-header {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.ui-footer {
+    font-family: 'Oswald', sans-serif;
+    ;
+}
+
+.picture>img {
     width: 100%;
 }
