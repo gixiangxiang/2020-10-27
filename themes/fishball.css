@@ -724,7 +724,7 @@ html body .ui-group-theme-b .ui-btn:visited,
 html head+body .ui-btn.ui-btn-b:visited {
     background-color: #f6f6f6/*{b-bup-background-color}*/
     ;
-    border-color: #dddddd/*{b-bup-border}*/
+    border-color: #f3e7e7/*{b-bup-border}*/
     ;
     color: #333333/*{b-bup-color}*/
     ;
